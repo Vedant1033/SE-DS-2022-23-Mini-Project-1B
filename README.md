@@ -1,1 +1,2 @@
-# SE-DS-2022-23-Mini-Project-1B
+# Car-Price-Prediction
+Car Price Prediction using multiple ML models
